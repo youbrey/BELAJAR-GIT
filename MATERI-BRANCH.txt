@@ -1,3 +1,4 @@
 1. belajar membuat branch baru
 2. membuat file baru pada branch baru
 3. belajar edit file di branch baru
+4. belajar merge branch
